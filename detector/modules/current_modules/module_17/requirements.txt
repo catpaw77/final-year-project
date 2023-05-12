@@ -1,0 +1,5 @@
+joblib==1.1.0
+networkx==2.8.5
+numpy==1.23.1
+r2pipe==1.7.1
+scikit-learn
